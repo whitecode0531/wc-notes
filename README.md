@@ -8,6 +8,6 @@
 
 # Email Template 
 
-[Template Padrão]('template.html')
+[Template Padrão](template.html)
 
-[Template Billet]('index.html')
+[Template Billet](index.html)
